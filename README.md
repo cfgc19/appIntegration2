@@ -3,7 +3,10 @@ In this project, we will build a tiered application, using Java EE technologies.
 
   a) An application that loads data about series into a database.
   
-  b) A web service that uses an EJB that can access the database and provides basic information about series. 
+  b) A web service that uses an EJB that can access the database and provides basic information about series.
+  
   c) A web service that, in part, uses the functionality provided by the web service in b) and adds extra functionality. 
+  
   d) A client application that can query both web services. 
+  
   e) A web front-end to display basic information regarding series.
